@@ -33,7 +33,7 @@ plt.show()
 # Let's assume k = 5 based on the Elbow Method
 
 # Apply k-means with the chosen k value
-kmeans = KMeans(n_clusters=3, random_state=42)
+kmeans = KMeans(n_clusters=5, random_state=42)
 kmeans.fit(X_scaled)
 
 # Get cluster labels for each data point
