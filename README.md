@@ -18,7 +18,7 @@ Before running the code, ensure that you have the following Python libraries ins
 - `matplotlib`
 - `pandas` (optional, for dataset handling)
 
-You can install the required libraries using pip:
+You can install the required libraries using pip: 
 
 ```bash
 pip install numpy matplotlib pandas
