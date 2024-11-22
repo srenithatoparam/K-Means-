@@ -22,3 +22,5 @@ You can install the required libraries using pip:
 
 ```bash
 pip install numpy matplotlib pandas
+
+I have added MIT LISCENSE for my project
